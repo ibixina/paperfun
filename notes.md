@@ -1,0 +1,3 @@
+- predictive feature principle
+- representations of temporally adjacent sensory stimuli should be predictiv of each other
+-
